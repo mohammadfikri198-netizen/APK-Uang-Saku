@@ -1,0 +1,1 @@
+{"Pekor": {"saldo": 500, "total_pemasukan": 1000, "total_pengeluaran": 500, "riwayat": [{"tipe": "Setor", "jumlah": 1000}, {"tipe": "Transfer", "jumlah": 500, "penerima": "Agus"}], "pin": "1346"}, "Agus": {"saldo": 500, "total_pemasukan": 500, "total_pengeluaran": 0, "riwayat": [{"tipe": "Transfer", "jumlah": 500, "pengirim": "Pekor"}], "pin": "0000"}}
